@@ -18,4 +18,4 @@ If you have any questions or feedback, feel free to reach out to me:
 
 Email   :  jeeva.vk08@gmail.com
 LinkedIn:  www.linkedin.com/in/jeeva-vijayakumar-y2022/
-GitHub:    github.com/Jeeva-vk
+GitHub:    https://github.com/Jeeva-vk
